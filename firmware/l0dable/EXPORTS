@@ -71,6 +71,7 @@ the_config
 gpioGetValue
 gpioSetDir
 gpioSetValue
+sspInit
 sspReceive
 sspSend
 sspSendReceive
